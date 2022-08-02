@@ -1,34 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# blackgyalbites
 
-## Getting Started
+### Template for No-touch Menus and Host Static Pages Built with Any Framework on GitHub Pages
 
-First, run the development server:
+![screenshot of website with 3 buttons that read: food menu, drinks menu, and catering menu. on the right of it is a screenshot of the drinks menu](css/images/screenshot.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Website built with HTML & CSS to display restaurant menus when users scan a QR code.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Powered By GitHub Pages
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+This is a demonstration to show developers that they can build and host static websites using any framework. 
+See more example frameworks hosted on GitHub Pages:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+- [HTML and CSS](https://github.com/blackgirlbytes/blackgyalbites)
+- [Next.js and Tailwind CSS](https://github.com/blackgirlbytes/blackgyalbites-nextjs)
+- [Astro](https://github.com/blackgirlbytes/blackgyalbites-astro)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+### Design and Development
+All designs and elements are open source, available for free for anyone to use.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Owned by Rizel Scarlett [(@blackgirlbytes)](https://github.com/blackgirlbytes)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Designed by [The Holistic Technologist](https://holistictech.io)
 
-## Deploy on Vercel
+Illustrations by [Cuoc Doi Prints](https://www.cuocdoiprints.com)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Feel free to fork, copy, tweak, and use for any purpose. This project is completely open source, and under MIT license. 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Menu Design Template: [Canva](https://www.canva.com/design/DAFGhaCejFw/zy2w9ZjXJBZ3NssSdfhpTw/view?utm_content=DAFGhaCejFw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+Download Assets & Design Elements: [Google Drive](https://drive.google.com/drive/u/0/folders/12vHecd82FiiphDGSpwRA8cndsdzDy5QG)
+
+![blackgirlbytes logo](https://user-images.githubusercontent.com/22990146/182384548-5af4d85e-3439-449a-bac4-6b213eb6b18c.png)
+
